@@ -1,0 +1,20 @@
+body {
+  background: blueviolet;
+}
+h1{
+    margin: 2rem ;
+    position: absolute;
+    color: rgb(7, 97, 30);
+    background: chocolate;
+    border: 10px;
+}
+.botonRegister{
+  margin: 90px;
+  width: 5rem;
+  height: 3rem;
+  border-radius: 20px;
+  background-color: darkcyan;
+  font-weight: bold;
+  color:brown;
+
+}
